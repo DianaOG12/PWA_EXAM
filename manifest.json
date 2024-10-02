@@ -1,0 +1,94 @@
+{
+  "name": "Galería Fotos",
+  "short_name": "Galería",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0000ff",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/600/92c952",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/600/771796",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/600/24f355",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/600/d32776",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/600/f66b97",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/600/56a8c2",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/600/b0f7cc",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/600/54176f",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+    "src": "https://via.placeholder.com/600/51aa97",
+    "sizes": "192x192",
+    "type": "image/png"
+   },
+   {
+    "src": "https://via.placeholder.com/600/810b14",
+    "sizes": "512x512",
+    "type": "image/png"
+   },
+   {
+    "src": "https://via.placeholder.com/600/1ee8a4",
+    "sizes": "192x192",
+    "type": "image/png"
+   },
+   {
+    "src": "https://via.placeholder.com/600/66b7d2",
+    "sizes": "512x512",
+    "type": "image/png"
+   },
+  {
+   "src": "https://via.placeholder.com/600/197d29",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "https://via.placeholder.com/600/61a65",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+    "src": "https://via.placeholder.com/600/f9cee5",
+    "sizes": "192x192",
+    "type": "image/png"
+   },
+   {
+    "src": "https://via.placeholder.com/600/fdf73e",
+    "sizes": "512x512",
+    "type": "image/png"
+   }
+  ]
+}
+
+
+
+
